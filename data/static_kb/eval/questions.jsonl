@@ -1,0 +1,15 @@
+{"q":"Where is the parking located?","gold_sources":["location.md"]}
+{"q":"How do I get there by public transport?","gold_sources":["location.md"]}
+{"q":"What are the entrance and exit gates?","gold_sources":["location.md"]}
+{"q":"What are the standard rates?","gold_sources":["prices.md"]}
+{"q":"What payment methods are accepted?","gold_sources":["prices.md"]}
+{"q":"What is the daily maximum price?","gold_sources":["prices.md"]}
+{"q":"Can I enter and exit at any time?","gold_sources":["working_hours.md","faq.md"]}
+{"q":"What are customer support hours?","gold_sources":["working_hours.md"]}
+{"q":"What are the peak times?","gold_sources":["working_hours.md"]}
+{"q":"What is the maximum vehicle height allowed?","gold_sources":["rules.md"]}
+{"q":"Is EV charging available?","gold_sources":["rules.md","faq.md"]}
+{"q":"Can I cancel a reservation?","gold_sources":["rules.md"]}
+{"q":"What info is required to make a reservation?","gold_sources":["booking_process.md"]}
+{"q":"How does the booking process work?","gold_sources":["booking_process.md"]}
+{"q":"Do you store my personal data?","gold_sources":["rules.md","faq.md"]}

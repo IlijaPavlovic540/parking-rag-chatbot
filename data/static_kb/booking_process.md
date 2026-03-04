@@ -13,7 +13,7 @@ To create a reservation request, the chatbot will collect:
 5) **Reservation end date/time**
 
 ## Steps
-1. You tell the chatbot you want to reserve (e.g., “Reserve tomorrow 10:00–12:00”).
+1. You tell the chatbot you want to reserve (e.g., “type 'Reserve" and you will be prompted to reserve.”).
 2. The chatbot asks for any missing details.
 3. The system validates the request:
    - start time is before end time
