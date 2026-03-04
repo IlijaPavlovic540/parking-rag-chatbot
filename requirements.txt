@@ -5,6 +5,7 @@ langchain
 langchain-community
 langchain-openai
 langchain-text-splitters
+langchain-weaviate
  
 openai
  
@@ -12,3 +13,4 @@ presidio-analyzer
 presidio-anonymizer
  
 pytest
+
