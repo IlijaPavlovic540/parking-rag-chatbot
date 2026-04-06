@@ -15,3 +15,6 @@ presidio-anonymizer
 pytest
 
 psycopg2
+
+fastapi
+uvicorn
