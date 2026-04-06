@@ -1,8 +1,8 @@
 import uuid
  
-from application.core.guardrails import policy_check, redact_pii
-from application.dialog.reservation_flow import ReservationDraft, missing_fields, validate, next_questions
-from application.rag.rag_service import rag_answer
+from app.core.guardrails import policy_check, redact_pii
+from app.dialog.reservation_flow import ReservationDraft, missing_fields, validate, next_questions
+from app.rag.rag_service import rag_answer
  
 START_RES_WORDS = {"reserve", "reservation", "book", "booking", "start reservation"}
 CANCEL_WORDS = {"cancel", "stop", "back", "exit reservation"}

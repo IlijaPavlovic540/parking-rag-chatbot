@@ -1,4 +1,4 @@
-from application.admin.admin_chain import build_admin_review_message, parse_admin_reply
+from app.admin.admin_chain import build_admin_review_message, parse_admin_reply
 
 def main ():
     sample_row = (

@@ -1,4 +1,4 @@
-from application.dialog.reservation_flow import ReservationDraft, missing_fields, validate
+from app.dialog.reservation_flow import ReservationDraft, missing_fields, validate
 
 
 def test_missing_fields_order():

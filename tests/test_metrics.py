@@ -1,4 +1,4 @@
-from application.evaluation.metrics import recall_at_k, precision_at_k
+from app.evaluation.metrics import recall_at_k, precision_at_k
 
 def test_recall_hit():
     assert recall_at_k(["prices.md","rules.md"], {"prices.md"}) ==1.0

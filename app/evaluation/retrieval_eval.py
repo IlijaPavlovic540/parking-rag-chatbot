@@ -3,8 +3,8 @@ import statistics
 from typing import Dict, List, Set
 
 
-from application.rag.vectorstore import get_weaviate_client, get_vectorstore
-from application.evaluation.metrics import recall_at_k, precision_at_k
+from app.rag.vectorstore import get_weaviate_client, get_vectorstore
+from app.evaluation.metrics import recall_at_k, precision_at_k
 
 
 def load_questions(path: str):

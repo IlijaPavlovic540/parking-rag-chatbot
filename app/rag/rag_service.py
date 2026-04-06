@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts  import ChatPromptTemplate
 
-from application.rag.vectorstore import get_weaviate_client, get_vectorstore
+from app.rag.vectorstore import get_weaviate_client, get_vectorstore
 
 load_dotenv()
 

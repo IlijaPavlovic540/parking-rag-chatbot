@@ -1,4 +1,4 @@
-from application.core.guardrails import redact_pii
+from app.core.guardrails import redact_pii
 
 def test_redact_email():
     out = redact_pii("My email is test@example.com")

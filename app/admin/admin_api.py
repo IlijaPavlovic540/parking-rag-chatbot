@@ -1,14 +1,14 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
-from application.admin.admin_storage import (
+from app.admin.admin_storage import (
     get_pending_requests,
     get_request_by_id,
     approve_request,
     reject_request,
 )
 
-from application.admin.admin_chain import (
+from app.admin.admin_chain import (
     build_admin_review_message,
     parse_admin_reply,
 )
