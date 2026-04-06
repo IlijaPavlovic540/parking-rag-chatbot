@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from app.rag.vectorstore import get_weaviate_client, get_vectorstore, INDEX_NAME
+from application.rag.vectorstore import get_weaviate_client, get_vectorstore, INDEX_NAME
 
 load_dotenv()
 

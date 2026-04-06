@@ -1,4 +1,4 @@
-from app.admin.admin_storage import(
+from application.admin.admin_storage import(
     create_reservation_request,
     get_pending_requests,
     approve_request,

@@ -1,7 +1,7 @@
 import time 
 
-from app.rag.vectorstore import get_weaviate_client, get_vectorstore
-from app.rag.rag_service import rag_answer
+from application.rag.vectorstore import get_weaviate_client, get_vectorstore
+from application.rag.rag_service import rag_answer
 
 QUESTIONS =[
     "Where is the parking located?",

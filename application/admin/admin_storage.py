@@ -1,4 +1,4 @@
-from app.db.db import get_connection
+from application.db.db import get_connection
  
 def create_reservation_request(first_name, last_name, car_plate, start_dt, end_dt):
     sql = """
